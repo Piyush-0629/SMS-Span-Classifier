@@ -1,4 +1,4 @@
-# SMS-Span-Classifier
+# SMS-Spam-Classifier
  
  
 This project is a spam filter that can be used to classify SMS messages as spam or not spam. The project is made using natural language processing (NLP) and machine learning. The NLP is used to clean and preprocess the text messages, and the machine learning is used to train a model to classify the messages. The project is deployed using Streamlit, which is a web framework that makes it easy to deploy machine learning models.
